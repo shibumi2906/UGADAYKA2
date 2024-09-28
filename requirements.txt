@@ -1,0 +1,22 @@
+
+# Веб-фреймворк
+FastAPI==0.100.0
+
+# ASGI сервер
+uvicorn==0.22.0
+
+# ORM для работы с базой данных
+SQLAlchemy==2.0.20
+databases[postgresql]==0.9.0
+
+# Телеграм-бот
+python-telegram-bot==20.3
+
+# Работа с блокчейном TON
+pytonlib==0.7.0
+
+# Логирование
+loguru==0.7.0
+
+# Тестирование
+pytest==7.3.1
